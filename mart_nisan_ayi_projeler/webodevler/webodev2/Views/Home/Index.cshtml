@@ -1,0 +1,29 @@
+﻿@model List<Urun>
+
+@{
+    ViewData["Title"] = "Ürün Listesi";
+}
+
+<h1>Ürün Listesi</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Açıklama</th>
+            <th>Fiyat</th>
+            <th>Kategori</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var urun in Model)
+        {
+            <tr>
+                <td>@urun.Ad</td>
+                <td>@urun.Aciklama</td>
+                <td>@urun.Fiyat ₺</td>
+                <td>@urun.Kategori</td>
+            </tr>
+        }
+    </tbody>
+</table>

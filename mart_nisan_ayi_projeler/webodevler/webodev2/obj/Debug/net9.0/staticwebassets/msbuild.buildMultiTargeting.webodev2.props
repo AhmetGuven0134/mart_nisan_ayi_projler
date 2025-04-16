@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webodev2.props" />
+</Project>

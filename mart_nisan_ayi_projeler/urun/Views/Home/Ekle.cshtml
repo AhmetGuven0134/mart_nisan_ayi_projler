@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Ekle";
+}
+@model Kitaplar
+@using kitap.Models
+@{
+    ViewData["Title"] = "Ürün Ekle";
+}
+<h1>Ürün Ekle</h1>
+<form asp-action="Ekle" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="kitapAd"></label>
+        <input asp-for="kitapAd" class="form-control" />
+        <span asp-validation-for="kitapAd" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="kitapFiyat"></label>
+        <input asp-for="kitapFiyat" class="form-control" />
+        <span asp-validation-for="kitapFiyat" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="kitapStok"></label>
+        <input asp-for="kitapStok" class="form-control" />
+        <span asp-validation-for="kitapStok" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="kitapAciklama"></label>
+        <textarea asp-for="kitapAciklama" class="form-control"></textarea>
+        <span asp-validation-for="kitapAciklama" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="kitapResim"></label>
+        <input asp-for="kitapResim" name="urunResim" />
+        <span asp-validation-for="kitapResim" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="kategoriID"></label>
+        <input asp-for="kategoriID" class="form-control" />
+        <span asp-validation-for="kategoriID" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Ekle" class="btn btn-primary" />
+    </div>
+</form>

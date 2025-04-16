@@ -1,0 +1,36 @@
+@model Ogrenci
+@using veriornek.Models
+
+<h2>Öğrenci Düzenle</h2>
+
+<form asp-action="Duzenle">
+    <div class="form-group">
+        <label asp-for="Ad" class="control-label"></label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Soyad" class="control-label"></label>
+        <input asp-for="Soyad" class="form-control" />
+        <span asp-validation-for="Soyad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OkulNumarasi" class="control-label"></label>
+        <input asp-for="OkulNumarasi" class="form-control" />
+        <span asp-validation-for="OkulNumarasi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DevamsizlikTuru" class="control-label"></label>
+        <select asp-for="DevamsizlikTuru" class="form-control"
+            asp-items="Html.GetEnumSelectList<DevamsizlikTuru>()"></select>
+        <span asp-validation-for="DevamsizlikTuru" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="OkulNumarasi" />
+    <div class="form-group">
+        <input type="submit" value="Kaydet" class="btn btn-primary" />
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Geri Dön</a>
+</div>

@@ -1,0 +1,27 @@
+@model urun1.Models.Urun
+
+@{
+    ViewData["Title"] = "Ürün Ekle";
+}
+
+<h1>Ürün Ekle</h1>
+
+<form asp-action="Ekle" method="post">
+    <div>
+        <label>Ürün Adı:</label>
+        <input asp-for="Ad" />
+    </div>
+    <div>
+        <label>Fiyat:</label>
+        <input asp-for="Fiyat" />
+    </div>
+    <div>
+        <label>Stok Adedi:</label>
+        <input asp-for="StokDurumu" />
+    </div>
+    <div>
+        <button type="submit">Ürünü Kaydet</button>
+    </div>
+</form>
+
+<a href="/Urun/Index">Geri Dön</a>

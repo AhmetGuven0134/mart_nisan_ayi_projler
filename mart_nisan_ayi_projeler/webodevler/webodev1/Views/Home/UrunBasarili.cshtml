@@ -1,0 +1,13 @@
+@model webodev1.Models.Urun
+@{
+    ViewData["Title"] = "Ürün Başarıyla Eklendi";
+}
+
+<h2>Ürün Eklendi</h2>
+
+<p><strong>Ad:</strong> @Model.Ad</p>
+<p><strong>Açıklama:</strong> @Model.Aciklama</p>
+<p><strong>Fiyat:</strong> ₺@Model.Fiyat</p>
+<p><strong>Stok Durumu:</strong> @Model.StokDurumu</p>
+
+<a href="/Home/UrunEkle" class="btn btn-success">Yeni Ürün Ekle</a>

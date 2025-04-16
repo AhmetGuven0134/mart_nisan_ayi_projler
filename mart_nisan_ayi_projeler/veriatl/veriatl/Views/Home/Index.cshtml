@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Ogrenci>
+<div class="text-center">
+    <h2>Öğrenci Listesi </h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Öğrenci Id</th>
+                <th>Öğrenci No</th>
+                <th>Adı</th>
+                <th>Soyadı</th>
+                <th>Devamsızlık Durumu</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ogrenci in Model)
+            {
+                <tr>
+                    <td>@ogrenci.Id</td>
+                    <td>@ogrenci.Numara</td>
+                    <td>@ogrenci.Ad</td>
+                    <td>@ogrenci.Soyad</td>
+                    <td>@ogrenci.devamdurumu</td>
+                    <td><a asp-action="OgrenciSil" asp-controller="Home" asp-route-id="@ogrenci.Id">Sil</a></td>
+                    <td><a asp-action="OgrenciGuncelle" asp-controller="Home" asp-route-id="@ogrenci.Id">Düzenle</a>
+                    </td>
+                    <td><a asp-action="Ayrinti" asp-controller="Home" asp-route-id="@ogrenci.Numara">Ayrıntılar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Ekle" asp-controller="Home" class="btn btn-primary">Yeni Öğrenci Ekle</a>
+</div>

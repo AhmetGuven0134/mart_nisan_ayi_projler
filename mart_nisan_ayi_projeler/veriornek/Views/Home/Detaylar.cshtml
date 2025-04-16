@@ -1,0 +1,27 @@
+@model Ogrenci
+
+<h2>Öğrenci Detayları</h2>
+
+<div>
+    <h4>Öğrenci</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Ad</dt>
+        <dd class="col-sm-10">@Model.Ad</dd>
+
+        <dt class="col-sm-2">Soyad</dt>
+        <dd class="col-sm-10">@Model.Soyad</dd>
+
+        <dt class="col-sm-2">Okul Numarası</dt>
+        <dd class="col-sm-10">@Model.OkulNumarasi</dd>
+
+        <dt class="col-sm-2">Devamsızlık Durumu</dt>
+        <dd class="col-sm-10">@Model.DevamsizlikTuru</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Duzenle" asp-route-id="@Model.OkulNumarasi">Düzenle</a> |
+    <a asp-action="Sil" asp-route-id="@Model.OkulNumarasi">Sil</a> |
+    <a asp-action="Index">Geri Dön</a>
+</div>

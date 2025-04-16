@@ -1,0 +1,41 @@
+﻿@model List<kitap.Models.Kitaplar>
+@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+<h1>Ürün Listesi</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Kitap ID</th>
+            <th>Kitap Adı</th>
+            <th>Fiyat</th>
+            <th>Stok</th>
+            <th>Açıklama</th>
+            <th>Resim</th>
+            <th>KategoriId</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var kitap in Model)
+        {
+            <tr>
+                <td>@kitap.kitapID</td>
+                <td>@kitap.kitapAd</td>
+                <td>@kitap.kitapFiyat</td>
+                <td>@kitap.kitapStok</td>
+                <td>@kitap.kitapAciklama</td>
+                <td>
+                    <img src="@Url.Content("~/Resimler/" + (kitap.kitapResim ?? "default.jpg"))" alt="Kitap Resmi"
+                        class="product-image" />
+                </td>
+                <td>@kitap.kategoriID</td>
+                <td>
+                    <a asp-action="Duzenle" asp-controller="Home" asp-route-id="@kitap.kitapID">Düzenle</a> |
+                    <a asp-action="Sil" asp-controller="Home" asp-route-id="@kitap.kitapID">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Ekle" asp-controller="Home" class="btn btn-primary">Yeni Ürün Ekle</a>

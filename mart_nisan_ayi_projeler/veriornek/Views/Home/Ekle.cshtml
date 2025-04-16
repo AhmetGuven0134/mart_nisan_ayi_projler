@@ -1,0 +1,28 @@
+@model Ogrenci
+@using veriornek.Models
+<h2>Yeni Öğrenci Kaydı Oluştur</h2>
+<form asp-action="Ekle">
+    <div class="form-group">
+        <label asp-for="Ad"></label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Soyad"></label>
+        <input asp-for="Soyad" class="form-control" />
+        <span asp-validation-for="Soyad" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="OkulNumarasi"></label>
+        <input asp-for="OkulNumarasi" class="form-control" />
+        <span asp-validation-for="OkulNumarasi" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DevamsizlikTuru"></label>
+        <select asp-for="DevamsizlikTuru" class="form-control"
+            asp-items="Html.GetEnumSelectList<DevamsizlikTuru>()"></select>
+        <span asp-validation-for="DevamsizlikTuru" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <a asp-action="Index" class="btn btn-secondary">İptal</a>
+</form>

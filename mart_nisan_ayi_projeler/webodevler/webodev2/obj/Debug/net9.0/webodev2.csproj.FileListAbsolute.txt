@@ -1,0 +1,194 @@
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\appsettings.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.staticwebassets.runtime.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.staticwebassets.endpoints.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.exe
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.deps.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.runtimeconfig.json
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.dll
+C:\Users\Eren Erek\Desktop\webodev2\bin\Debug\net9.0\webodev2.pdb
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.AssemblyInfoInputs.cache
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.AssemblyInfo.cs
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.csproj.CoreCompileInputs.cache
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.RazorAssemblyInfo.cache
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.RazorAssemblyInfo.cs
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\scopedcss\bundle\webodev2.styles.css
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\scopedcss\projectbundle\webodev2.bundle.scp.css
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\edkhpa8fdl-b9sayid5wm.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\a4o45sb22e-61n19gt1b8.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\a2gvywe3m4-xtxxf3hu2r.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\0f7gl1tbwt-bqjiyaj88i.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\0wkc9pii01-c2jlpeoesf.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\t84a43h9d2-erw9l3u2r3.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\f96epw6o2p-aexeepp0ev.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\mu2d661ehe-d7shbmvgxk.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\u3uaut3r4m-ausgxo2sd3.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\e9nacge28k-k8d9w2qqmf.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\2ft8vhmn7s-cosvhxvwiu.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\uxjduavgd9-ub07r2b239.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\q3vs24is1x-fvhpjtyr6v.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\7kcxh1zymu-b7pk76d08c.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\fz0mclhx68-fsbi9cje9m.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\uz4vxtwuxb-rzd6atqjts.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\b208yl10pg-ee0r1s7dh0.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\3ymertww6e-dxx9fxp4il.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\ishf6jyyfa-jd9uben2k1.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\1vuoitoo8q-khv3u5hwcm.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\2w18t1pay8-r4e9w2rdcm.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\5k55d6tw13-lcd1t2u6c8.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\wsftlvpkl4-c2oey78nd0.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\yvxvzh3642-tdbxkamptv.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\4zwjy3gkra-j5mq2jizvt.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\e7xvqds2jm-06098lyss8.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\xvebgmm6bi-nvvlpmu67g.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\8iymhmy3om-s35ty4nyc5.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\vn3l19si5d-pj5nd1wqec.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\xxekhnnijj-46ein0sx1k.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\6leytsde9t-v0zj4ognzu.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\dwon5xozro-37tfw0ft22.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\d71fu0ra8j-hrwsygsryq.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\v2rwzkhxhr-pk9g2wxc8p.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\ul53tm64ix-ft3s53vfgj.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\uy7omyk37v-6cfz1n2cew.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\43p1v7usao-6pdc2jztkx.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\yx7mqqych7-493y06b0oq.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\nymy29euw5-iovd86k7lj.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\yjuxrawj5n-vr1egmr9el.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\snabmkr823-kbrnm935zg.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\9pu8as8zbi-jj8uyg4cgr.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\de1h9n8l8o-y7v9cxd14o.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\ywpw0sg9fx-notf2xhcfb.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\4jboxs6v8u-h1s4sie4z3.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\tjw7w4zmjg-63fj8s7r0e.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\pa6hiw26q9-0j3bgjxly4.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\ba3c47stpm-47otxtyo56.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\i47s4ibu5m-4v8eqarkd7.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\pqyamyr2bw-356vix0kms.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\03wkkzznmi-83jwlth58m.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\bxfy7s9o83-mrlpezrjn3.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\cjr4ihdwsj-lzl9nlhx6b.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\9m704jo4is-ag7o75518u.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\xnn53ayaqn-x0q3zqp4vz.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\wmyvek6hmf-0i3buxo5is.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\jog6qr94mo-o1o13a6vjx.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\fi67gwvsqr-ttgo8qnofa.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\8no1hx0517-2z0ns9nrw6.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\s8n27bm864-muycvpuwrr.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\hhsdizm6fc-87fc7y1x7t.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\3uc317xoxy-mlv21k5csn.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\yw0iwoahut-qvvth6iheg.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\compressed\1b9fe8m7ls-qvvth6iheg.gz
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.webodev2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.webodev2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.build.webodev2.props
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.webodev2.props
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.webodev2.props
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.dll
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\refint\webodev2.dll
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.pdb
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\webodev2.genruntimeconfig.cache
+C:\Users\Eren Erek\Desktop\webodev2\obj\Debug\net9.0\ref\webodev2.dll
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\appsettings.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.staticwebassets.runtime.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.staticwebassets.endpoints.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.exe
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.deps.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.runtimeconfig.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.dll
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\bin\Debug\net9.0\webodev2.pdb
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.AssemblyInfoInputs.cache
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.AssemblyInfo.cs
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.RazorAssemblyInfo.cache
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.RazorAssemblyInfo.cs
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\scopedcss\bundle\webodev2.styles.css
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\scopedcss\projectbundle\webodev2.bundle.scp.css
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\edkhpa8fdl-b9sayid5wm.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\a4o45sb22e-61n19gt1b8.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\a2gvywe3m4-xtxxf3hu2r.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\0f7gl1tbwt-bqjiyaj88i.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\0wkc9pii01-c2jlpeoesf.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\t84a43h9d2-erw9l3u2r3.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\f96epw6o2p-aexeepp0ev.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\mu2d661ehe-d7shbmvgxk.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\u3uaut3r4m-ausgxo2sd3.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\e9nacge28k-k8d9w2qqmf.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\2ft8vhmn7s-cosvhxvwiu.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\uxjduavgd9-ub07r2b239.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\q3vs24is1x-fvhpjtyr6v.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\7kcxh1zymu-b7pk76d08c.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\fz0mclhx68-fsbi9cje9m.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\uz4vxtwuxb-rzd6atqjts.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\b208yl10pg-ee0r1s7dh0.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\3ymertww6e-dxx9fxp4il.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\ishf6jyyfa-jd9uben2k1.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\1vuoitoo8q-khv3u5hwcm.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\2w18t1pay8-r4e9w2rdcm.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\5k55d6tw13-lcd1t2u6c8.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\wsftlvpkl4-c2oey78nd0.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\yvxvzh3642-tdbxkamptv.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\4zwjy3gkra-j5mq2jizvt.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\e7xvqds2jm-06098lyss8.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\xvebgmm6bi-nvvlpmu67g.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\8iymhmy3om-s35ty4nyc5.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\vn3l19si5d-pj5nd1wqec.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\xxekhnnijj-46ein0sx1k.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\6leytsde9t-v0zj4ognzu.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\dwon5xozro-37tfw0ft22.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\d71fu0ra8j-hrwsygsryq.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\v2rwzkhxhr-pk9g2wxc8p.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\ul53tm64ix-ft3s53vfgj.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\uy7omyk37v-6cfz1n2cew.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\43p1v7usao-6pdc2jztkx.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\yx7mqqych7-493y06b0oq.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\nymy29euw5-iovd86k7lj.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\yjuxrawj5n-vr1egmr9el.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\snabmkr823-kbrnm935zg.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\9pu8as8zbi-jj8uyg4cgr.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\de1h9n8l8o-y7v9cxd14o.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\ywpw0sg9fx-notf2xhcfb.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\4jboxs6v8u-h1s4sie4z3.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\tjw7w4zmjg-63fj8s7r0e.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\pa6hiw26q9-0j3bgjxly4.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\ba3c47stpm-47otxtyo56.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\i47s4ibu5m-4v8eqarkd7.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\pqyamyr2bw-356vix0kms.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\03wkkzznmi-83jwlth58m.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\bxfy7s9o83-mrlpezrjn3.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\cjr4ihdwsj-lzl9nlhx6b.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\9m704jo4is-ag7o75518u.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\xnn53ayaqn-x0q3zqp4vz.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\wmyvek6hmf-0i3buxo5is.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\jog6qr94mo-o1o13a6vjx.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\fi67gwvsqr-ttgo8qnofa.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\8no1hx0517-2z0ns9nrw6.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\s8n27bm864-muycvpuwrr.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\hhsdizm6fc-87fc7y1x7t.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\3uc317xoxy-mlv21k5csn.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\yw0iwoahut-qvvth6iheg.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\compressed\1b9fe8m7ls-qvvth6iheg.gz
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.webodev2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.webodev2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.build.webodev2.props
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.webodev2.props
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.webodev2.props
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.dll
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\refint\webodev2.dll
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.pdb
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\webodev2.genruntimeconfig.cache
+C:\Users\Ahmet\OneDrive\Desktop\webodevler\webodev2\obj\Debug\net9.0\ref\webodev2.dll

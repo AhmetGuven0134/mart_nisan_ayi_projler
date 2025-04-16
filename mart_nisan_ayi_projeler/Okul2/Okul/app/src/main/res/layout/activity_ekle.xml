@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".EkleActivity">
+
+    <TextView
+        android:id="@+id/textBaslik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Öğrenci Ekle"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editAdSoyad"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Ad Soyad"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editSinav1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Sınav 1"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/editSinav2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Sınav 2"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonEkle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ekle" />
+</LinearLayout>

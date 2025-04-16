@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Ogrenci>
+@{
+    ViewBag.Title = "Öğrenci Listesi";
+}
+<h2>Öğrenci Listesi</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Okul Numarası</th>
+            <th>Devamsızlık Durumu</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ogrenci in Model)
+        {
+            <tr>
+                <td>@ogrenci.Ad</td>
+                <td>@ogrenci.Soyad</td>
+                <td>@ogrenci.OkulNumarasi</td>
+                <td>@ogrenci.DevamsizlikTuru</td>
+                <td>
+                    <a href="@Url.Action("Detaylar", "Home", new { id = ogrenci.OkulNumarasi })">Detaylar</a> |
+                    <a href="@Url.Action("Duzenle", "Home", new { id = ogrenci.OkulNumarasi })">Düzenle</a> |
+                    <a href="@Url.Action("Sil", "Home", new { id = ogrenci.OkulNumarasi })">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Ekle", "Home")" class="btn btn-primary">Yeni Öğrenci Ekle</a>
